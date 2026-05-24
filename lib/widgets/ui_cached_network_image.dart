@@ -1,6 +1,6 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
-import 'package:ui_helper/extensions/data_type.dart';
+import 'package:ui_helper_kit/extensions/data_type.dart';
 
 class UICachedNetworkImage extends StatelessWidget {
   final String imageUrl;

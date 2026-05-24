@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ui_helper/overlays/snackbars.dart';
+import 'package:ui_helper_kit/overlays/snackbars.dart';
 
 extension NavExtension on BuildContext {
   Future<dynamic> push(Widget page, {bool maintainState = true}) async {

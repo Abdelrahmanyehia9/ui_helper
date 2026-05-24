@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:ui_helper/enums/logo_type.dart';
+import '../enums/logo_type.dart';
 
 
 

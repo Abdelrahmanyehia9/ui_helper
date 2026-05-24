@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:ui_helper/extensions/colors.dart';
-import 'package:ui_helper/extensions/context.dart';
-import 'package:ui_helper/widgets/ui_clickable.dart';
+import 'package:ui_helper_kit/widgets/ui_clickable.dart';
+
+import '../extensions/colors.dart';
+import '../extensions/context.dart';
+
 
 class UIChip extends StatelessWidget {
   final double ? height, maxWidth, minWidth, maxHeight, minHeight, width,

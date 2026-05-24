@@ -1,5 +1,5 @@
 import 'package:intl/intl.dart';
-import 'package:ui_helper/models/time_messages.dart';
+import 'package:ui_helper_kit/models/time_messages.dart';
 
 
 extension OnDateTime on DateTime {

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ui_helper/widgets/ui_gap.dart';
+import 'package:ui_helper_kit/widgets/ui_gap.dart';
 
 class SnackBars {
   const SnackBars._();
