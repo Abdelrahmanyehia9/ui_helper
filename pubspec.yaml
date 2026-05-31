@@ -1,7 +1,7 @@
 name: ui_helper_kit
 description: "UI helper wrapper."
 
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Abdelrahmanyehia9/ui_helper.git
 
 environment:

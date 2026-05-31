@@ -9,4 +9,7 @@ export 'package:ui_helper_kit/extensions/data_type.dart';
 export 'package:ui_helper_kit/extensions/date_time.dart';
 export 'package:ui_helper_kit/extensions/map.dart';
 export 'package:ui_helper_kit/extensions/widgets.dart';
+export 'controllers/onboarding_controller.dart';
+export 'models/on_boarding_data.dart';
+
 export 'widgets/index.dart';

@@ -1,3 +1,3 @@
-enum LogoType {
+enum ThumbType {
   svg, image, other, iconData ;
 }

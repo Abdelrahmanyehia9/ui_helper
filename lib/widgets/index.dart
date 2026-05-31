@@ -7,6 +7,8 @@ export 'ui_gap.dart';
 export 'ui_logo.dart';
 export 'ui_text.dart';
 export 'ui_text_field.dart';
+export 'ui_onboarding.dart';
+export 'ui_slider_dots.dart';
 
 
 
